@@ -19,7 +19,7 @@ git clone "https://github.com/UW-ESS-DS/MLGEO2022_Maochuan"
 ```
 
 ## UW
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC4SERffAlpCocARSI_BH3CA&psig=AOvVaw2bOrAxSWiS7CGPTj3RBtdm&ust=1665694197853000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCNwMnI2_oCFQAAAAAdAAAAABAJ)
+![Logo](/uw.jpeg)
 
 ### License
 MIT license are applied to this repository
